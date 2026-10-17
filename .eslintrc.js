@@ -38,7 +38,7 @@ module.exports = {
     ],
     //#endregion  //*======== Unused Import ===========
 
-    //#region  //*=========== Import Sort ===========
+    //#region  //*=========== Import Sort ==========
     'simple-import-sort/exports': 'warn',
     'simple-import-sort/imports': [
       'warn',
